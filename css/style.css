@@ -220,6 +220,12 @@ h6,
     border: 15px solid var(--primary);
     border-radius: 3.5rem;
 }
+@media (max-width: 768px){
+    .ige{
+        height: 50vh !important;
+
+    }
+}
 
 @media (max-width: 768px) {
     #header-carousel .carousel-item {
